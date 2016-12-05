@@ -1,6 +1,5 @@
 @charset "utf-8";
 body {
-	color: #FFFFFF;
 	background-image: url(fundo.png);
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -9,7 +8,6 @@ body {
     background-color: #B203B7;
     border-color: #B203B7;
 }
-/* title */
 .navbar-default .navbar-brand {
     color: #F8F8F8;
 }
@@ -17,7 +15,7 @@ body {
 .navbar-default .navbar-brand:focus {
     color:#FB8DFF;
 }
-/* link */
+
 .navbar-default .navbar-nav > li > a {
     color: #F8F8F8;
 }
@@ -41,8 +39,6 @@ body {
     padding-bottom: 30px;
     margin-bottom: 30px;
     color: inherit;
-    background-color: #CE00D4;
-}
 .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
     font-family: inherit;
     font-weight: 500;
